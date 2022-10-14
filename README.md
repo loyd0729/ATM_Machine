@@ -19,7 +19,7 @@
     balance the balance will be shown as a negative 
       ex. if the current balance has $200 and the user withdraw $250
           the balance will be shown as $-50. Once the user deposited 
-          let $50 the -$50 balance will become $0.
+          $50 the -$50 balance will become $0.
    
     If the user decided to quit, the user can select the Exit option and the 
     application will be terminated.
